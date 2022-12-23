@@ -8,7 +8,7 @@ Run main.py for execution
 - File preprocessing done in utils/data_prep.py
 
 # Details
-The task is to implement the complete machine learning pipeline that classifies gestures by training a model that consumes time series data.
+I implemented the complete machine learning pipeline that classifies gestures by training a model that consumes time series data.
 
 # Data
 We use an existing dataset that contains gesture movement data recorded by an external system. The gestures have been recorded from uWave: Accelerometer-based personalized gesture recognition and its applications
