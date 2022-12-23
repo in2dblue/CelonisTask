@@ -7,7 +7,7 @@ Run main.py for execution
 - Logistic Regression algorithm developed in logreg.py
 - File preprocessing done in utils/data_prep.py
 
-# Task
+# Details
 The task is to implement the complete machine learning pipeline that classifies gestures by training a model that consumes time series data.
 
 # Data
